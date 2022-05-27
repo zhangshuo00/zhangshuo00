@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangshuo00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![zhangshuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangshuo00)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **zhangshuo00/zhangshuo00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
